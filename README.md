@@ -1,7 +1,3 @@
-# Klasifikasi-Gambar-Hewan
-Dibuat oleh Steven C Michael
-
-submission
 ├───tfjs_model
 | ├───group1-shard1of8.bin
 | ├───group1-shard2of8.bin
